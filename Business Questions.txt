@@ -1,0 +1,41 @@
+Beginner Level
+
+What is the distribution of customers by gender?
+Which gender has a higher number of customers?
+How many customers are active versus inactive?
+What is the percentage of active customers compared to inactive ones?
+What is the distribution of customers by credit card status (e.g., has a credit card vs. does not have a credit card)?
+How does credit card ownership vary among customers?
+How many customers are using each product?
+Which product has the highest number of customers?
+What is the total number of customers?
+
+
+Intermediate Level
+
+What is the distribution of customers across different age groups?
+How does the churn rate vary among different age groups?
+How are customers distributed based on their credit scores?
+What is the churn rate for different credit score ranges?
+What is the distribution of customers by account balance?
+How does the churn rate change with different account balance ranges?
+How many customers have been lost (churned) over a specific period?
+What is the overall churn rate of customers?
+
+
+
+Advanced Level
+
+Are there any significant trends or patterns in churn rates between different genders?
+How does the activity status of customers correlate with churn rates?
+Are inactive customers more likely to churn?
+What is the relationship between credit card ownership and customer churn?
+Do customers with credit cards have a different churn rate compared to those without?
+How does product usage impact churn rates?
+Which products have the highest churn rates?
+What factors contribute to higher churn rates in certain age groups?
+Are younger customers more likely to churn than older customers?
+What is the correlation between credit scores and churn rates?
+Do customers with lower credit scores churn more frequently?
+How does account balance influence churn rates?
+Are customers with lower account balances more prone to churn?
